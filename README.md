@@ -1,5 +1,5 @@
-## tictactoe
-# Requirements:
+# tictactoe
+## Requirements:
  * There are 3 main actors: 2 players and 1 deployer.
  * Deployer sends to smart contract x nfts, that will be reward for winners.
  * If there are not reward for winners, the game doesn't start.
